@@ -1,0 +1,5 @@
+total 40
+-rwxrwxr-x 1 loc loc 17968 Thg 11  3 10:50 a.out
+-rw-rw-r-- 1 loc loc    54 Thg 11  2 10:49 input.txt
+-rwx------ 1 loc loc    49 Thg 11  2 10:58 out.txt
+-rw-rw-r-- 1 loc loc  8581 Thg 11  3 09:48 ss.cpp
